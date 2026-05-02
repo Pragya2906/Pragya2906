@@ -3,7 +3,7 @@
 - Building for the web & learning full-stack development  
 
 ---
- 
+
 ## ⚡ Tech Stack
 
 ### Frontend
