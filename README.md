@@ -1,10 +1,10 @@
-## 💻 About
+##  About
 - 2nd Year CS Student
 - Building for the web & learning full-stack development  
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,26 +24,28 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🔹 Effort Tracker  
+### Effort Tracker  
 Task tracker with authentication, real-time timers & guest mode  
+
 🔗 [Live Demo](https://effort-tracker-silk.vercel.app/) · [GitHub](https://github.com/Pragya2906/Effort-Tracker)
 
-### 🔹 JS Mini Projects  
-Collection of small JavaScript apps — BMI Calculator, Clock, Color Changer & more  
-🔗 [GitHub](https://github.com/Pragya2906/JS-Mini-Projects)
+### MoodTunes
+Full-stack music recommendation app that suggests songs based on user mood
+
+🔗 [Live Demo](https://playmoodtunes.vercel.app/) · [GitHub](https://github.com/Pragya2906/moodTunes)
 
 ---
 
-## 📌 Currently Working On
+##  Currently Working On
 - Learning backend development with Node.js & Express  
 - Building full-stack projects  
 - Improving problem solving & API design  
 
 ---
 
-## 🔗 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya-lachhwani-9a9756309)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragyalachhwnai07@gmail.com)
