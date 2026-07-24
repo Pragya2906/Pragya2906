@@ -26,15 +26,21 @@
 
 ##  Projects
 
-### Effort Tracker  
-Task tracker with authentication, real-time timers & guest mode  
+### MailCraft
+ AI workspace with 9 email tools (compose, reply, summarize & more) 
 
-🔗 [Live Demo](https://effort-tracker-silk.vercel.app/) · [GitHub](https://github.com/Pragya2906/Effort-Tracker)
+🔗 [Live Demo ](https://mail-craft-rho.vercel.app/) · [GitHub](https://github.com/Pragya2906/Mail-Craft)
 
 ### MoodTunes
 Full-stack music recommendation app that suggests songs based on user mood
 
 🔗 [Live Demo](https://playmoodtunes.vercel.app/) · [GitHub](https://github.com/Pragya2906/moodTunes)
+
+### Effort Tracker  
+Task tracker with authentication, real-time timers & guest mode  
+
+🔗 [Live Demo](https://effort-tracker-silk.vercel.app/) · [GitHub](https://github.com/Pragya2906/Effort-Tracker)
+
 
 ---
 
