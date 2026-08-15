@@ -44,13 +44,6 @@ Task tracker with authentication, real-time timers & guest mode
 
 ---
 
-##  Currently Working On
-- Learning backend development with Node.js & Express  
-- Building full-stack projects  
-- Improving problem solving & API design  
-
----
-
 ##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya-lachhwani-9a9756309)
