@@ -1,6 +1,6 @@
-##  About
-- 2nd Year CS Student
-- Building for the web & learning full-stack development  
+## About
+I build things on the internet. Still figuring out the rest.
+Mostly React, some Node, and whatever a project demands me to learn.
 
 ---
 
@@ -54,4 +54,4 @@ Task tracker with authentication, real-time timers & guest mode
 ##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya-lachhwani-9a9756309)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragyalachhwnai07@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pragyalachhwani07@gmail.com)
